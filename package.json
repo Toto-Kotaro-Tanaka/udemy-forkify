@@ -1,0 +1,23 @@
+{
+    "name": "udemy-forkify",
+    "version": "1.0.0",
+    "description": "Recipe application",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Toto-Kotaro-Tanaka/udemy-forkify.git"
+    },
+    "author": "toto",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Toto-Kotaro-Tanaka/udemy-forkify/issues"
+    },
+    "homepage": "https://github.com/Toto-Kotaro-Tanaka/udemy-forkify#readme",
+    "devDependencies": {
+        "parcel": "^2.0.0-rc.0"
+    }
+}
