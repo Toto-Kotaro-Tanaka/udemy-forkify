@@ -2,7 +2,6 @@
     "name": "udemy-forkify",
     "version": "1.0.0",
     "description": "Recipe application",
-    "main": "index.html",
     "scripts": {
         "start": "parcel index.html",
         "build": "parcel build index.html"
@@ -18,6 +17,8 @@
     },
     "homepage": "https://github.com/Toto-Kotaro-Tanaka/udemy-forkify#readme",
     "devDependencies": {
+        "@parcel/transformer-image": "^2.0.0-rc.0",
+        "@parcel/transformer-sass": "^2.0.0-rc.0",
         "parcel": "^2.0.0-rc.0"
     }
 }
