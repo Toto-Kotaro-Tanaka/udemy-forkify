@@ -28,7 +28,7 @@ const controlRecipes = async function () {
         console.log(id);
 
         if (!id) return;
-        reciepView.renderSpiner();
+        recipeView.renderSpiner();
 
         // 1) Loading recipe
         await model.loadRecipe(id);

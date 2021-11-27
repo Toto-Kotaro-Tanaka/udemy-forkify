@@ -25,6 +25,7 @@
         "@babel/plugin-proposal-private-methods": "^7.16.0",
         "@babel/plugin-proposal-private-property-in-object": "^7.16.0",
         "core-js": "^3.19.1",
+        "fractional": "^1.0.0",
         "regenerator-runtime": "^0.13.9"
     }
 }
